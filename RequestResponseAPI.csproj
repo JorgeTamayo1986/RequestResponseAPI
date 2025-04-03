@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<PackageId>RequestResponse</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Jorge Tamayo</Authors>
+	<Company>jortamra</Company>
+	<Description>Manejo de respuesta a requests</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageTags>csharp; nuget; net.core 8</PackageTags>
+	<RepositoryUrl>https://github.com/JorgeTamayo1986</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
